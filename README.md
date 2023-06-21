@@ -24,7 +24,7 @@
     <li>Open the <code>dial_detect.py</code> file and locate the following lines:</li>
   </ol>
 
-  <pre><code>access_key = "ea0a56fdfc72a1f2efa107067de1f8a5"</code></pre>
+  <pre><code>access_key = "YOUR ACCESS KEY HERE"</code></pre>
 
   <ol start="5">
     <li>Replace the value of <code>access_key</code> with your own API key from Numberify. Make sure to sign up on the Numberify website and obtain your API key.</li>
