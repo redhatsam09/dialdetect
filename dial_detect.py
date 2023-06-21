@@ -3,7 +3,7 @@ from tkinter import *
 from bs4 import BeautifulSoup
 
 def get_details():
-    access_key = "ea0a56fdfc72a1f2efa107067de1f8a5"
+    access_key = "YOUR ACCESS KEY HERE"
     number = number_entry.get()
     country_code = country_code_entry.get()
 
